@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+TRACK_WIDGET_CREATION=
+
+FLUTTER_FLAVOR=Develop
+PRODUCT_BUNDLE_IDENTIFIER=com.example.flutterFs.dev
+DISPLAY_NAME=flutter_fs_dev

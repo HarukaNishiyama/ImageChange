@@ -1,0 +1,4 @@
+#Thu Sep 17 15:50:01 JST 2020
+base.0=/Users/nishiyamaharuka/AndroidStudioProjects/flutter_fs/build/app/intermediates/dex/productionDebug/mergeDexProductionDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
