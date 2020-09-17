@@ -1,1 +1,1 @@
-# Flutter技術調査用アプリ
+# Flutter技術調査
